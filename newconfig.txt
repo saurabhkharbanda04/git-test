@@ -1,6 +1,4 @@
 its a new file.
 Just for learning.
-
-I ll be pushing this file to git hub.
-Completed and saw th result in git hub.
-Thanks.
+Updated as on 15-10-2019.
+Changes will be reflected in the screen.

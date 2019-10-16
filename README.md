@@ -1,4 +1,2 @@
-# git-test
-git hub
-/documet/saurbh
-new git pull
+readme.md
+/desktop/saurabh/test/git-test

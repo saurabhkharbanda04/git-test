@@ -5,5 +5,5 @@ what are you doing?
 i am good. thank you.
 how about you?
 m working on git commands.
-newfilefortest.txt
+its a good practice to work regularly
 
